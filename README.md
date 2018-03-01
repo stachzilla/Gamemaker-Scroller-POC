@@ -1,6 +1,3 @@
-# Gamemaker-Scroller-POC
-Gamemaker
-
 # SAB
 
 User a controller to play
