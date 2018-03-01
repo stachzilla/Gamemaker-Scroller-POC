@@ -9,7 +9,7 @@ A - Jump
 
 # SAB RPG - 
 
-W/A/S/D Keys to move, click to shoot
+W/A/S/D Keys to move, click to shoot.  Ignore naked sprite... done as joke
 
 # World - 
 
