@@ -1,6 +1,6 @@
 # SAB
 
-User a controller to play
+Use a controller to play
 
 X - Run / Open
 RT - Shoot
