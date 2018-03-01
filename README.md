@@ -13,7 +13,7 @@ W/A/S/D Keys to move, click to shoot.  Ignore naked sprite... done as joke
 
 # World - 
 
-Top down test + Pathfinding + rain demo
+Top down test + Pathfinding + rain demo.  Left click to move
 
 # FactorioFun - 
 
